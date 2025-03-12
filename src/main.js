@@ -1,8 +1,8 @@
 import "./style.css";
-import javascriptLogo from "./javascript.svg";
-import viteLogo from "/vite.svg";
-import { setupCounter } from "./counter.js";
 import firebaseApp from "./firebase";
+import javascriptLogo from "./javascript.svg";
+import { setupCounter } from "./counter.js";
+import viteLogo from "/vite.svg";
 
 document.querySelector("#app").innerHTML = `
   <div>
