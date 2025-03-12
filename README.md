@@ -8,7 +8,7 @@ Follow these steps to set up and start using the project:
 
 ### 1️⃣ Create an `.env` File
 
-At the root of the project, create a file named `.env` and add the following environment variables: 
+At the root of the project, create a file named `.env` and add the following environment variables:
 
 ```ini
 VITE_FIREBASE_API_KEY=your-api-key
