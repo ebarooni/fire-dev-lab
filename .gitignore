@@ -12,8 +12,8 @@ dist
 dist-ssr
 *.local
 .env
-google-services.json
-GoogleService-Info.plist
+android/app/google-services.json
+ios/App/App/GoogleService-Info.plist
 
 # Editor directories and files
 .vscode/*
